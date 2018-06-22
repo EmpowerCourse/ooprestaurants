@@ -1,0 +1,5 @@
+c:\users\itlocal\documents\visual studio 2012\Projects\ConsoleApplication6\OurClasses\obj\Debug\OurClasses.csprojResolveAssemblyReference.cache
+c:\users\itlocal\documents\visual studio 2012\Projects\ConsoleApplication6\OurClasses\bin\Debug\OurClasses.dll
+c:\users\itlocal\documents\visual studio 2012\Projects\ConsoleApplication6\OurClasses\bin\Debug\OurClasses.pdb
+c:\users\itlocal\documents\visual studio 2012\Projects\ConsoleApplication6\OurClasses\obj\Debug\OurClasses.dll
+c:\users\itlocal\documents\visual studio 2012\Projects\ConsoleApplication6\OurClasses\obj\Debug\OurClasses.pdb
